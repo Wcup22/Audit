@@ -1,5 +1,5 @@
 # Audit
-https://bscscan.com/token/0x44e1e671991c2507364f429247893f11ea481771
+https://bscscan.com/token/0xc2f0169090fac54294d100f9c6a7e07313a74bcf
 {
     "name": "Brackets",
     "version": "1.15.0-0",
